@@ -6,6 +6,21 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/*
+	my code start
+*/
+.friendlink{
+	opacity: 0.3;
+	transition: 0.5s ease;
+	transform: scale(0.5);
+}
+.friendlink:hover{
+	opacity: 0.9;
+	transform: scale(0.8);
+}
+/*
+	my code end
+*/
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3245,7 +3260,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #273c75;
+			background-color: #162243;
 		}
 
 		.wrapper.style2 {
